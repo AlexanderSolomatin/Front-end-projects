@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;   
+}
+
+body{
+    background: #000;
+    color: rgb(32, 211, 15);
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    width: 50%;  
+    border-radius: 20px; 
+    border: 3px solid rgb(32, 211, 15); 
+    padding: 8px;
+}
+
+input{
+    color: black;
+    width: 20%;
+    margin: 10px 0
+}
